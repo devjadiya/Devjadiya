@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dev Jadiya</h1>
 <h3 align="center">A passionate software developer from Madhya Pradesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devjadiya&label=Profile%20views&color=0e75b6&style=flat" alt="devjadiya" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devjadiya" alt="devjadiya" /></a> </p>
-
 - 🔭 I’m currently working on **Zero trust infrasturcture**
 
 - 🌱 I’m currently learning **DevSecOps**
@@ -25,6 +21,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+<img src="https://firebasestorage.googleapis.com/v0/b/boss-storage.appspot.com/o/1.jpg?alt=media&token=3c109ac9-81d5-45de-871c-a1eb1130707f" width="300" />
+ <a  href="https://www.linkedin.com/feed/update/urn:li:activity:7255939169917562880/" >View on LinkedIn </a>
+
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
