@@ -43,8 +43,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/devjadiya"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="devjadiya" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devjadiya&show_icons=true&locale=en&layout=compact" alt="devjadiya" /></p>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=devjadiya&show_icons=true&locale=en" alt="devjadiya" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devjadiya&show_icons=true&locale=en&layout=compact" alt="devjadiya" style="margin-right: 10px;" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devjadiya&show_icons=true&locale=en" alt="devjadiya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devjadiya&" alt="devjadiya" /></p>
