@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Exam Proctoring Project**
 
-- 👨‍💻 All of my projects are available at [Devjadiya.tech](Devjadiya.tech)
+- 👨‍💻 All of my projects are available at [Devjadiya.tech](https://Devjadiya.tech)
 
 - 📝 I weekly write articles on [https://medium.com/@devjadiya](https://medium.com/@devjadiya)
 
