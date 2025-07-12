@@ -3,20 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devjadiya&label=Profile%20views&color=0e75b6&style=flat" alt="devjadiya" /> </p>
 
 
-- 🔭 I’m currently working on **Zero trust infrasturcture**
-
-- 🌱 I’m currently learning **DevSecOps**
-
 - 👨‍💻 All of my projects are available at [Dev Jadiya](https://dev-jadiya.web.app/)
 
-<!-- - 📝 I weekly write articles on [Dev Writes](https://) -->
-
-- 📫 How to reach me dev-jadiya.web.app
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<img src="https://firebasestorage.googleapis.com/v0/b/boss-storage.appspot.com/o/1.jpg?alt=media&token=3c109ac9-81d5-45de-871c-a1eb1130707f" width="300" />
- <a  href="https://www.linkedin.com/feed/update/urn:li:activity:7255939169917562880/" >View on LinkedIn </a>
 
 <!-- BLOG-POST-LIST:END -->
 
