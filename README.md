@@ -3,8 +3,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devjadiya&label=Profile%20views&color=0e75b6&style=flat" alt="devjadiya" /> </p>
 
 
-- 👨‍💻 All of my projects are available at [Dev Jadiya](https://dev-jadiya.web.app/)
-
 
 <!-- BLOG-POST-LIST:END -->
 
