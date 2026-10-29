@@ -1,4 +1,4 @@
-<img src="assets/header.png" alt="Dev Jadiya" width="100%">
+<img src="assets/header.svg" alt="I build, test and ship the whole thing. Python, FastAPI, TypeScript, Next.js, Docker, AWS, CI/CD." width="100%">
 
 I build web products end to end, from the database to the deploy. Python on the backend, TypeScript on the front, and pipelines that ship every push. CS graduate, SATI Vidisha, 2025. Looking for **SDE, full-stack, Python or DevOps** roles.
 
@@ -30,5 +30,6 @@ First runner-up, Kriyeta 2.0 (₹50,000) · 4th runner-up of 1,180, HackHound 2.
 <br>
 
 [devjadiya.com](https://devjadiya.com) · [LinkedIn](https://linkedin.com/in/devjadiya) · [contact@devjadiya.com](mailto:contact@devjadiya.com) · [Wikimedia](https://meta.wikimedia.org/wiki/User:Dev_Jadiya)
+
 
 
