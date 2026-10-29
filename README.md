@@ -25,9 +25,10 @@ Design-to-deploy builds for clients in India and the Gulf, including [Memo Music
 
 ### Wins
 
-First runner-up, Kriyeta 2.0 (₹50,000) · 4th runner-up of 1,180, HackHound 2.0 · Best UI/UX, Core Nexus Web3 · 700+ LeetCode
+First runner-up, Kriyeta 2.0 (₹50,000) · 4th runner-up of 1,180, HackHound 2.0 · Best UI/UX, Core Nexus Web3
 
 <br>
 
 [devjadiya.com](https://devjadiya.com) · [LinkedIn](https://linkedin.com/in/devjadiya) · [contact@devjadiya.com](mailto:contact@devjadiya.com) · [Wikimedia](https://meta.wikimedia.org/wiki/User:Dev_Jadiya)
+
 
