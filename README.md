@@ -15,7 +15,7 @@ Design-to-deploy builds for clients in India and the Gulf, including [Memo Music
 
 ### Things I built
 
-| | | |
+| Project | What it does | Stack |
 |---|---|---|
 | [Election Violence Monitor](https://election-violence-monitor.vercel.app) | Incident mapping platform, built with partners in Nigeria | Next.js, TypeScript |
 | [Clip2Commons](https://clip2commons.toolforge.org) | Video encoding in the browser with WebCodecs, 800+ tests in CI · [source](https://gitlab.wikimedia.org/toolforge-repos/clip2commons) | Vue 3, TypeScript, Vite |
@@ -30,3 +30,4 @@ First runner-up, Kriyeta 2.0 (₹50,000) · 4th runner-up of 1,180, HackHound 2.
 <br>
 
 [devjadiya.com](https://devjadiya.com) · [LinkedIn](https://linkedin.com/in/devjadiya) · [contact@devjadiya.com](mailto:contact@devjadiya.com) · [Wikimedia](https://meta.wikimedia.org/wiki/User:Dev_Jadiya)
+
